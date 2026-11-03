@@ -1,0 +1,6 @@
+chroma_db/
+financials.db
+*.pdf
+__pycache__/
+.venv/
+.env
